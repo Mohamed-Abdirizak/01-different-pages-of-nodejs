@@ -2,6 +2,10 @@
 Simple Project: 3 pages on nodejs
 
 Unzip the 01-different-page-of-nodejs:
+> open vs code.
+> click file menu on the top left side
+>click open folder
+>choose the folder that you have downloaded.
 > open app.js script.
 > go to the terminal
 > write on terminal: npm start nodemon
